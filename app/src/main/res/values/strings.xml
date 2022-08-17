@@ -12,7 +12,7 @@
     <string name="sexo">Sexo</string>
 
     <string-array name="ufs">
-        <item>UF...</item>
+        <item>UF…</item>
         <item>SP</item>
         <item>RJ</item>
         <item>MA</item>
